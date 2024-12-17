@@ -30,7 +30,7 @@ requirements.txt: Lists the project's dependencies.
 
 Installation:
 
-Clone the repository: git clone https://github.com/your-username/chatbot-with-personality.git
+Clone the repository: git clone https://github.com/AISphynx/chatbot-with-personality.git
 Install the dependencies: pip install -r requirements.txt
 Train the models (optional): python train_models.py
 
